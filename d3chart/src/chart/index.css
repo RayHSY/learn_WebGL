@@ -1,0 +1,20 @@
+.y-chart-polygon {
+    fill: white;
+    fill-opacity: 0.5;
+    stroke: gray;
+    stroke-dasharray: 10 5;
+}
+
+.y-chart-radar-line {
+    stroke: gray;
+    stroke-dasharray: 10 5;
+}
+
+.y-chart-label {
+    stroke: #333;
+}
+
+.y-chart-radar .y-chart-area {
+    fill: aqua;
+    fill-opacity: 0.3;
+}
